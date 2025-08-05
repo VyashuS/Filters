@@ -40,12 +40,15 @@ This project allows you to apply fun and interactive filters (like glasses, mous
 ```bash
 git clone https://github.com/VyashuS/Filters.git
 cd Filters
+```
+**Install dependencies using:**
 
-conda create -n filters-env python=3.9
-conda activate filters-env
-
+```bash
 pip install opencv-python numpy
-python filters.py
+```
+**Run the motion detection script:**
+```bash
+ python filters.py
 ```
 
 # 🙋‍♂️ Author
