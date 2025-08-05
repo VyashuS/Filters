@@ -44,9 +44,10 @@ cd Filters
 conda create -n filters-env python=3.9
 conda activate filters-env
 
-pip install -r requirements.txt
+pip install opencv-python numpy
 python filters.py
 ```
 
-
+# 🙋‍♂️ Author
+Made with ❤️ by [VyashuS](https://github.com/VyashuS/)
 
